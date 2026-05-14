@@ -1,6 +1,6 @@
 # Ročníková práce: Návrh a sestavení vlastního stolního počítače
 
-**Autor:** [Šmehlík Tadeáš]
+**Autor:** Šmehlík Tadeáš
 **Školní rok:** 2025/2026  
 
 ---
