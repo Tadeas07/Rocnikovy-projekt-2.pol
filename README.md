@@ -75,7 +75,7 @@ Moje ročníková práce byla úspěšná a všechny stanovené cíle se mi poda
 
 Díky vlastní montáži jsem výrazně ušetřil oproti předraženým hotovým sestavám z velkých obchodů, a navíc vím přesně, jaké komponenty v počítači mám. Naučil jsem se pracovat s BIOSem a vyzkoušel si diagnostiku teplot. 
 
-## 7. Použité nástroje a zdroje
+## 7. Citace
 
 Při výběru komponent a přípravě na sestavení jsem čerpal převážně z komunitních a odborných zdrojů:
 
